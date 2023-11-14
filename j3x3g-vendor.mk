@@ -37,8 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3x3g/proprietary/bin/wlandutservice:system/bin/wlandutservice \
     vendor/samsung/j3x3g/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/j3x3g/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
-    vendor/samsung/j3x3g/proprietary/etc/HARRIER_ASIC_PATCH.bin:system/etc/HARRIER_ASIC_PATCH.bin \
-    vendor/samsung/j3x3g/proprietary/etc/ca.pem:system/etc/ca.pem \
     vendor/samsung/j3x3g/proprietary/etc/connectivity_calibration.ini:system/etc/connectivity_calibration.ini \
     vendor/samsung/j3x3g/proprietary/etc/connectivity_configure.ini:system/etc/connectivity_configure.ini \
     vendor/samsung/j3x3g/proprietary/etc/firmware/sc2331_fdl.bin:system/etc/firmware/sc2331_fdl.bin \
