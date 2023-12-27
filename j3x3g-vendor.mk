@@ -94,6 +94,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3x3g/proprietary/lib/libomx_mp3dec_sprd.so:system/lib/libomx_mp3dec_sprd.so \
     vendor/samsung/j3x3g/proprietary/lib/libomx_vpxdec_hw_sprd.so:system/lib/libomx_vpxdec_hw_sprd.so \
     vendor/samsung/j3x3g/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/j3x3g/proprietary/lib/libbinder.so:system/lib/libbinder.so \
     vendor/samsung/j3x3g/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/j3x3g/proprietary/lib/libreference-ril_sp.so:system/lib/libreference-ril_sp.so \
     vendor/samsung/j3x3g/proprietary/lib/libc.so:system/lib/libc.so \
