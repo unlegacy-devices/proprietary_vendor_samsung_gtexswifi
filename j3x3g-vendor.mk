@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3x3g/proprietary/bin/batterysrv:system/bin/batterysrv \
     vendor/samsung/j3x3g/proprietary/bin/calibration_init:system/bin/calibration_init \
     vendor/samsung/j3x3g/proprietary/bin/charge:system/bin/charge \
-    vendor/samsung/j3x3g/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/j3x3g/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/j3x3g/proprietary/bin/cp_diskserver:system/bin/cp_diskserver \
     vendor/samsung/j3x3g/proprietary/bin/ddexe:system/bin/ddexe \
@@ -93,11 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3x3g/proprietary/lib/libomx_m4vh263enc_hw_sprd.so:system/lib/libomx_m4vh263enc_hw_sprd.so \
     vendor/samsung/j3x3g/proprietary/lib/libomx_mp3dec_sprd.so:system/lib/libomx_mp3dec_sprd.so \
     vendor/samsung/j3x3g/proprietary/lib/libomx_vpxdec_hw_sprd.so:system/lib/libomx_vpxdec_hw_sprd.so \
-    vendor/samsung/j3x3g/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/j3x3g/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/j3x3g/proprietary/lib/libreference-ril_sp.so:system/lib/libreference-ril_sp.so \
-    vendor/samsung/j3x3g/proprietary/lib/libc.so:system/lib/libc.so \
-    vendor/samsung/j3x3g/proprietary/lib/libm.so:system/lib/libm.so \
     vendor/samsung/j3x3g/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/j3x3g/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
     vendor/samsung/j3x3g/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
