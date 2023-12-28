@@ -97,8 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j3x3g/proprietary/lib/libbinder.so:system/lib/libbinder.so \
     vendor/samsung/j3x3g/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/j3x3g/proprietary/lib/libreference-ril_sp.so:system/lib/libreference-ril_sp.so \
-    vendor/samsung/j3x3g/proprietary/lib/libc.so:system/lib/libc.so \
-    vendor/samsung/j3x3g/proprietary/lib/libm.so:system/lib/libm.so \
     vendor/samsung/j3x3g/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/j3x3g/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
     vendor/samsung/j3x3g/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
